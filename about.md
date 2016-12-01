@@ -4,12 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This site is devoted to the strategy side of Fantasy Football.  This assumes you are playing to win and not purely for social reasons.  There's nothing wrong with playing for fun!  But if you want to win, you need to have a plan.  As John Wooden once said, "Failure to prepare is preparing to fail."  So I suggest you prepare.  Prepare to win.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
