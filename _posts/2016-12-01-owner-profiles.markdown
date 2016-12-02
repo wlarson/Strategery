@@ -23,7 +23,7 @@ Rarely makes trades or roster moves.  Often a good drafter, but sticks too long 
 All over the waiver wire and free agents.  First to take action on injury updates and other roster updates. 
 
 <b>Trade Spammer</b><br>
-Rapid fires terrible trade offers to all other owners, hoping someone will accept a bad offer.  Frequent target of trade vetos.
+Rapid fires terrible trade offers to all other owners, hoping someone will accept.  Frequent target of trade vetos.
 
 <b>Asleep At The Wheel</b><br>
 Goes AWOL after draft day.  May not even show up for the draft.
